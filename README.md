@@ -25,3 +25,6 @@ Topics include entropy, mutual information, transfer entropy, active information
     * Transfer Entropy (TE)
 * Target Movement: BWV244.29-a ("The Arrest of Jesus")
 * Data Source: [music21/corpus/bach](https://gitub.u-bordeaux.fr/scrime/tabasco/music21/-/tree/tabasco-version/music21/corpus/bach?ref_type=heads) – St Matthew Passion Chorales (bwv244)
+
+## License
+This content is shared for educational and portfolio purposes only. Please do not reuse without appropriate citation.
